@@ -1,0 +1,10 @@
+{
+  "name": "search-aggregator",
+  "description": "search aggregator app for ebay",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "4.x"
+  }
+}
