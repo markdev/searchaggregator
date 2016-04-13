@@ -1,0 +1,8 @@
+INSTALLATION:
+
+npm init
+nodemon app.js
+
+
+USAGE:
+curl http://localhost:1234?=querygoeshere/
